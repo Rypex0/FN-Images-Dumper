@@ -1,0 +1,15 @@
+{
+  "name": "fn-images-dumper",
+  "version": "1.0.0",
+  "description": "Dump Latest Fortnite Images",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.6.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rypex",
+  "license": "MIT"
+}
